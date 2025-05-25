@@ -1,0 +1,1 @@
+Auxiliary scripts that assist in development, deployment, or maintenance tasks. These scripts are typically not part of the core application logic but are essential for tasks like setting up the environment, running tests, or deploying the application.
