@@ -2,7 +2,7 @@ from ultralytics import YOLO
 from pathlib import Path
 import cv2
 
-model_to_use = "20250530 TACO to YOLO Waste Detection with YOLOv8"
+model_to_use = "20250530_TACO_to_YOLO_Waste_Detection_with_YOLOv8"
 
 model_path = Path(__file__).parent.parent / "models" / model_to_use / "best.pt"
 model = YOLO(model_path)
